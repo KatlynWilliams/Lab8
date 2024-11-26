@@ -1,0 +1,48 @@
+﻿  Array.cpp
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(8,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(8,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(9,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(9,25): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(17,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(17,56): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(20,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(20,38): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(6,8): error C2244: 'Array::Array': unable to match function definition to an existing declaration
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(12,8): error C2955: 'Array': use of class template requires template argument list
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(12,8): error C2509: '{ctor}': member function not declared in 'Array'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(12,42): error C2065: 'source': undeclared identifier
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(21,9): error C2955: 'Array': use of class template requires template argument list
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(21,9): error C2509: '{dtor}': member function not declared in 'Array'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(27,15): error C2955: 'Array': use of class template requires template argument list
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(27,15): error C2509: '=': member function not declared in 'Array'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,10): error C2143: syntax error: missing ';' before '&'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,19): error C2955: 'Array': use of class template requires template argument list
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,19): error C2039: '[]': is not a member of 'Array<arrayType>'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,19): error C2270: '[]': modifiers not allowed on nonmember functions
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,55): error C2059: syntax error: '{'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,55): error C2143: syntax error: missing ';' before '{'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(40,55): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,10): error C2143: syntax error: missing ';' before '&'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,1): error C2086: 'int arrayType': redefinition
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,19): error C2955: 'Array': use of class template requires template argument list
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,19): error C2039: '*': is not a member of 'Array<arrayType>'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,19): error C2270: '*': modifiers not allowed on nonmember functions
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,37): error C2059: syntax error: '{'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,37): error C2143: syntax error: missing ';' before '{'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.cpp(48,37): error C2447: '{': missing function header (old-style formal list?)
+  main.cpp
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(8,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(8,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(9,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(9,25): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(17,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(17,56): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(20,14): error C2059: syntax error: '<'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\Array.h(20,38): error C2238: unexpected token(s) preceding ';'
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\main.cpp(10,34): error C2676: binary '[': 'Array<int>' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\n754z265\source\repos\Lab_8\Lab_8\main.cpp(3,12): error C1075: '{': no matching token found
+  Generating Code...
