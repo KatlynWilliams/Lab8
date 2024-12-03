@@ -75,11 +75,11 @@ arrayType& Array<arrayType>::operator*() const {
 
 
 int main() {
-  Array<int> array1(2);
-  Array<int> array2(array1); // Testing copy constructor
-  Array<double> array3(3);
-  Array<double> array4(3);
-  array3 = array4; // Testing assignment operator
-  std::cout << array3[1]; // Access an element
-  return 0;
+    Array<int> array1(2);
+    Array<int> array2(array1); // Testing copy constructor
+    Array<double> array3(3);
+    Array<double> array4(3);
+    array3 = array4; // Testing assignment operator
+    std::cout << array1[1] << std::endl; // Access an element
+    return 0;
 }
